@@ -1,2 +1,0 @@
-[#chapter-03]
-== Modules, packages, and Go tools

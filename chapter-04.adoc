@@ -1,2 +1,0 @@
-[#chapter-04]
-== Variables, constants, and Declarations

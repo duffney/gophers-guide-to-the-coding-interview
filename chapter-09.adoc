@@ -1,2 +1,0 @@
-[#chapter-09]
-== Building your first projects

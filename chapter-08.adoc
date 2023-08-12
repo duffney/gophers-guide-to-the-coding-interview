@@ -1,2 +1,0 @@
-[#chapter-08]
-== Go's Type system

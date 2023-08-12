@@ -1,2 +1,0 @@
-[#chapter-07]
-== Functions and Error Handling
