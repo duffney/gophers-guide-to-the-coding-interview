@@ -13,4 +13,4 @@ Over the next 3-6 months, I'll be immersed in tackling 100 LeetCode questions. F
 |[#217 Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Go]()|Easy|
 
 
-Study stragey inspired by [neetcode roadmap](https://neetcode.io/roadmap)
+Study strategy inspired by [neetcode roadmap](https://neetcode.io/roadmap)
