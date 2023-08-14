@@ -6,8 +6,8 @@ Over the next 3-6 months, I'll be immersed in tackling 150 LeetCode questions. F
 
 ## LeetCode Questions
 
-| Problem | Solution | Difficulty | Type | 
+| Problem | Solution | Type | Difficulty | 
 |---| -------- | ---------- |----|
-|[#217 Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Leetcode](https://leetcode.com/problems/contains-duplicate/solutions/3908311/simple-use-a-map-to-store-appearances/)|Easy| Arrays & Hashing |
+|[#217 Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Leetcode](https://leetcode.com/problems/contains-duplicate/solutions/3908311/simple-use-a-map-to-store-appearances/)|Array & Hashing | Easy |
 
 Study strategy inspired by [neetcode roadmap](https://neetcode.io/roadmap)
