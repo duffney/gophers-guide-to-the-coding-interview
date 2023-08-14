@@ -6,7 +6,7 @@ Over the next 3-6 months, I'll be immersed in tackling 150 LeetCode questions. F
 
 ## LeetCode Questions
 
-| Status | Problem | Solution | Type | Difficulty | 
+| Status | Problem | Code | Type | Difficulty | 
 |---| --- | -------- | ---------- |----|
 |✅| [#217 Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Go](https://leetcode.com/problems/contains-duplicate/solutions/3908311/simple-use-a-map-to-store-appearances/)|Array & Hashing | Easy |
 
