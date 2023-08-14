@@ -4,13 +4,15 @@ Over the next 3-6 months, I'll be immersed in tackling 150 LeetCode questions. F
 
 > My Go reading list has been moved to this [gist](https://gist.github.com/duffney/4d20c10740545808da51707628e1b383#the-go-programming-language).
 
-## LeetCode Questions
+## Coding (Data Structures and Algorithms) Interview
 
 | Status | Problem | Code | Type | Difficulty | 
 |---| --- | -------- | ---------- |----|
 |✅| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Go](https://leetcode.com/problems/contains-duplicate/solutions/3908311/simple-use-a-map-to-store-appearances/)|Array & Hashing | Easy |
 |🤔| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)| TODO | Array & Hashing | Easy |
 
-Rule: If I cannot solve a problem within 45 minutes, I begin to study solutions to understand how to solve the problem.
+_Rule_: If I cannot solve a problem within 45 minutes, I begin to study solutions to understand how to solve the problem.
 
 Study strategy inspired by [neetcode roadmap](https://neetcode.io/roadmap)
+
+## System Design Interview
