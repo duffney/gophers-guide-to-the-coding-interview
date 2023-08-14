@@ -8,7 +8,8 @@ Over the next 3-6 months, I'll be immersed in tackling 150 LeetCode questions. F
 
 | Status | Problem | Code | Type | Difficulty | 
 |---| --- | -------- | ---------- |----|
-|✅| [#217 Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Go](https://leetcode.com/problems/contains-duplicate/solutions/3908311/simple-use-a-map-to-store-appearances/)|Array & Hashing | Easy |
+|✅| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Go](https://leetcode.com/problems/contains-duplicate/solutions/3908311/simple-use-a-map-to-store-appearances/)|Array & Hashing | Easy |
+|🤔| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)| TODO | Array & Hashing | Easy |
 
 Rule: If I cannot solve a problem within 45 minutes, I begin to study solutions to understand how to solve the problem.
 
